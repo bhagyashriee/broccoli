@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'pythoniweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDA226ED8997420CA2D18D4181182BDE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3755FAE7B84242B9A32A41D0CD894FD4 }}
